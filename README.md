@@ -1,4 +1,4 @@
-geekhub-android-rss
+GeekHub Android RSS
 ===================
 
 GeekHub example project
