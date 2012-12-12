@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/ActionBarSherlock.iml" filepath="$PROJECT_DIR$/submodules/ActionBarSherlock/library/ActionBarSherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/HoloEverywhere.iml" filepath="$PROJECT_DIR$/submodules/HoloEverywhere/library/HoloEverywhere.iml" />
       <module fileurl="file://$PROJECT_DIR$/geekhub-android-rss.iml" filepath="$PROJECT_DIR$/geekhub-android-rss.iml" />
     </modules>
   </component>

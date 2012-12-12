@@ -4,6 +4,8 @@
     <option name="DEFAULT_COMPILER" value="Javac" />
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/gen" includeSubdirectories="true" />
     </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
