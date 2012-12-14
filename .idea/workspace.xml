@@ -26,39 +26,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a14384b4-e691-4986-9c99-2a97244d5849" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submodules/ActionBarSherlock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/clans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/titles_activity.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submodules/HoloEverywhere" afterPath="$PROJECT_DIR$/submodules/HoloEverywhere" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/BaseActivity.java" afterPath="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/BaseActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geekhub-android-rss.iml" afterPath="$PROJECT_DIR$/geekhub-android-rss.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submodules/HoloEverywhere/library/project.properties" afterPath="$PROJECT_DIR$/submodules/HoloEverywhere/library/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="geekhub-android-rss.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355304134574" ignored="false" />
-    <file path="/fragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355312221142" ignored="false" />
-    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/fragments/ReaderFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355304516143" ignored="false" />
-    <file path="/ReaderFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355304459178" ignored="false" />
+    <file path="/fragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355480832748" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/fragments/ReaderFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/ReaderFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355481093598" ignored="false" />
     <file path="$PROJECT_DIR$/../youversion-android/res/values/strings.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355304505171" ignored="false" />
     <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/fragments/MyRelatedNotesFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355305271642" ignored="false" />
     <file path="/MyRelatedNotesFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355305263552" ignored="false" />
     <file path="$PROJECT_DIR$/../youversion-android/res/layout/my_related_notes_fragment.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355305108245" ignored="false" />
-    <file path="/Dummy.txt" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355310687097" ignored="false" />
-    <file path="/BaseActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355313585972" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355313725860" ignored="false" />
+    <file path="/Dummy.txt" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355472648005" ignored="false" />
+    <file path="/BaseActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355405567104" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355479173722" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/sirma/mobile/bible/android/BibleApp.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355325067276" ignored="false" />
+    <file path="/BibleApp.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355319141602" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/api/Users.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355325067276" ignored="false" />
+    <file path="/MainActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355321463563" ignored="false" />
+    <file path="/BaseFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355473505824" ignored="false" />
+    <file path="/TitlesFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355405450970" ignored="false" />
+    <file path="/main.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355321250931" ignored="false" />
+    <file path="/ConnectionHelper.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355388410526" ignored="false" />
+    <file path="/ArticleCollection.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355390274786" ignored="false" />
+    <file path="/Article.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355388052351" ignored="false" />
+    <file path="/titles_fragment.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355391215287" ignored="false" />
+    <file path="/list_item.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355391405068" ignored="false" />
+    <file path="/a.dummy" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499072690" ignored="false" />
+    <file path="/DetailsActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355474998125" ignored="false" />
+    <file path="/DetailsFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355480417936" ignored="false" />
+    <file path="/details_activity.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355399829694" ignored="false" />
+    <file path="/Intents.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355400608682" ignored="false" />
+    <file path="/details_fragment.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355403150972" ignored="false" />
+    <file path="/main_menu.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355480341900" ignored="false" />
+    <file path="/TitlesActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355474318333" ignored="false" />
+    <file path="/_HoloFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355405859955" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/Util.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/Util.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355481571851" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/BaseActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/DownloadService.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/offline/OfflineChapters.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/offline/OfflineVersionCollection.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499401641" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/fragments/BookmarksFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/widget/LabelUtil.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/LabelUtil.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355486612407" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/submodules/youversion-java-library/src/com/youversion/objects/ReadingPlanReferenceCollection.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/fragments/SignInFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355491767495" ignored="false" />
+    <file path="/SignInFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355491115472" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/res/layout/sign_in_form.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/sign_in_form.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355488181960" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/res/layout/sign_up_form.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/sign_up_form.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355492779617" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/res/layout/sign_up_with_facebook_form.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/sign_up_with_facebook_form.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355493205435" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/res/layout/twitter_xauth.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/twitter_xauth.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355493359393" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/res/layout/change_password_fragment.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/fragments/ChangePasswordFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/ChangePasswordFragment.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355494128640" ignored="false" />
+    <file path="/change_password_fragment.xml" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355494031713" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/submodules/youversion-java-library/src/com/youversion/objects/Version.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499122646" ignored="false" />
+    <file path="/OfflineVersionCollection.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355499398162" ignored="false" />
+    <file path="/UrlHandlerActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355500400157" ignored="false" />
+    <file path="$PROJECT_DIR$/../youversion-android/src/com/youversion/mobile/android/screens/activities/UrlHandlerActivity.java" changelist="a14384b4-e691-4986-9c99-2a97244d5849" time="1355500411829" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +110,66 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/activities/DetailsActivity.java" line="34" class="com.example.geekhub.geekhub_android_rss.activities.DetailsActivity" package="com.example.geekhub.geekhub_android_rss.activities">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/activities/DetailsActivity.java" line="23" class="com.example.geekhub.geekhub_android_rss.activities.DetailsActivity" package="com.example.geekhub.geekhub_android_rss.activities">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/activities/DetailsActivity.java" line="38" class="com.example.geekhub.geekhub_android_rss.activities.DetailsActivity" package="com.example.geekhub.geekhub_android_rss.activities">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/src/android/support/v4/app/_HoloFragment.java" line="160" class="android.support.v4.app._HoloFragment" package="android.support.v4.app">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -87,8 +184,8 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -103,12 +200,10 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -118,36 +213,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BaseActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/BaseActivity.java">
+      <file leaf-file-name="IndeterminateProgress.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/IndeterminateProgress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="30" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#692#1085#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
+                <element signature="e#0#1798#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="DetailsFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/fragments/DetailsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="49" selection-start="1016" selection-end="1016" vertical-scroll-proportion="-6.734694">
+            <state line="69" column="39" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ActionProviders.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/ActionProviders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="76" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#4232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings_action_provider.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/res/menu/settings_action_provider.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="113" selection-start="972" selection-end="1214" vertical-scroll-proportion="-15.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShareActionProviders.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/ShareActionProviders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="31" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#5011#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_menu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/menu/main_menu.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="41" selection-start="223" selection-end="223" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="56" selection-start="566" selection-end="566" vertical-scroll-proportion="0.16968326">
+            <state line="12" column="56" selection-start="553" selection-end="553" vertical-scroll-proportion="-7.5">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubMenus.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/SubMenus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="98" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#2038#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,9 +311,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/res/layout/titles_fragment.xml" />
+        <option value="$PROJECT_DIR$/res/layout/list_item.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/util/Intents.java" />
+        <option value="$PROJECT_DIR$/res/layout/details_activity.xml" />
+        <option value="$PROJECT_DIR$/res/layout/titles_activity.xml" />
+        <option value="$PROJECT_DIR$/res/layout/details_fragment.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/fragments/TitlesFragment.java" />
+        <option value="$PROJECT_DIR$/submodules/HoloEverywhere/library/src/android/support/v4/app/_HoloFragment.java" />
+        <option value="$PROJECT_DIR$/submodules/ActionBarSherlock/library/src/android/support/v4/app/Watson.java" />
+        <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/BaseFragment.java" />
         <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/BaseActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/activities/TitlesActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/activities/DetailsActivity.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/menu/main_menu.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/fragments/DetailsFragment.java" />
       </list>
     </option>
   </component>
@@ -187,10 +341,13 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Spelling</id>
+            <id>AndroidLintManifestOrder</id>
           </State>
         </selected-state>
       </profile-state>
@@ -204,7 +361,7 @@
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="1" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <ConfirmationsSetting value="1" id="Remove" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -222,6 +379,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,11 +490,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HoloEverywhere" />
+              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="submodules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submodules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submodules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -344,37 +572,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="holoeverywhere" />
+              <option name="myItemId" value="actionbarsherlock" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="geekhub-android-rss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="geekhub-android-rss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="submodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemId" value="demos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -396,7 +606,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="library" />
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submodules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submodules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ActionBarSherlock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,6 +714,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub_android_rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub_android_rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub_android_rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub_android_rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub-android-rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -435,29 +841,53 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="245" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="247" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="Errors" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="245" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/submodules/ActionBarSherlock/library" />
-    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="S566086a92bde" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="251" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1045" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1045" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="251" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="247" />
+    <property name="DEBUGGABLE_DEVICE" value="S566086a92bde" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.geekhub.geekhub_android_rss" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="tablet3.2" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="S566086a92bde" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.geekhub.geekhub_android_rss.activities" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.geekhub-android-rss">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -485,19 +915,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -523,6 +940,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -576,10 +1006,10 @@
     </configuration>
     <configuration default="false" name="geekhub-android-rss" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="geekhub-android-rss" />
-      <option name="ACTIVITY_CLASS" value="com.example.geekhub.geekhub_android_rss.BaseActivity" />
+      <option name="ACTIVITY_CLASS" value="com.example.geekhub.geekhub_android_rss.activities.TitlesActivity" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
       <option name="PREFERRED_AVD" value="" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
@@ -616,6 +1046,7 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -630,26 +1061,26 @@
     <frame x="0" y="0" width="1868" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948294" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948294" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948294" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948294" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993576" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25467548" sideWeight="0.6702356" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26347634" sideWeight="0.6702356" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948294" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -707,146 +1138,120 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/src/org/holoeverywhere/IHoloActivity.java">
+    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/src/org/holoeverywhere/widget/PopupMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.33259913">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/src/org/holoeverywhere/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="46" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.12953368">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/src/android/support/v4/app/Watson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="46" selection-start="589" selection-end="589" vertical-scroll-proportion="0.08259912">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/library/src/android/support/v4/app/_HoloActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="46" selection-start="1510" selection-end="1510" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/ActionItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#2031#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/ActionModes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="67" selection-start="2092" selection-end="2092" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#3746#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/FeatureToggles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/ListNavigation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/demo/res/layout/demo_navigation_item.xml">
-      <provider editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/res/drawable-hdpi/ic_compose.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/demo/res/layout/calendar.xml">
-      <provider editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/demo/res/layout/about.xml">
-      <provider editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png">
+      <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/demo/res/layout/main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submodules/HoloEverywhere/demo/src/org/holoeverywhere/demo/fragments/AlertDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="30" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#1085#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="49" selection-start="1016" selection-end="1016" vertical-scroll-proportion="-6.734694">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="56" selection-start="566" selection-end="566" vertical-scroll-proportion="0.16968326">
+        <state line="12" column="56" selection-start="553" selection-end="553" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/src/com/actionbarsherlock/sample/demos/SubMenus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="98" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#2038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/res/menu/share_action_provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="46" selection-start="926" selection-end="926" vertical-scroll-proportion="0.34762457">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/res/layout/context_menus.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../job/android-sdk-linux/platforms/android-17/data/res/drawable-hdpi/ic_menu_more.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../job/android-sdk-linux/platforms/android-17/data/res/drawable-xhdpi/ic_menu_share.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/samples/demos/res/menu/settings_action_provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="113" selection-start="972" selection-end="1214" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/activities/DetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="31" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submodules/ActionBarSherlock/library/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="67" selection-start="807" selection-end="807" vertical-scroll-proportion="0.43243244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/main_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="223" selection-end="223" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/geekhub/geekhub_android_rss/fragments/DetailsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="39" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>

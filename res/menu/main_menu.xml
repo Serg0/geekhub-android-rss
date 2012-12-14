@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_like"
+          android:title="Show likes"
+          android:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/menu_share"
+          android:showAsAction="always"
+          android:icon="@drawable/abs__ic_menu_share_holo_light"
+          android:visible="false">
+        <menu>
+            <item android:id="@+id/one"
+                  android:title="One"/>
+
+            <item android:id="@+id/two"
+                  android:title="Two"/>
+        </menu>
+    </item>
+
+</menu>
